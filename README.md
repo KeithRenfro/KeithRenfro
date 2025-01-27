@@ -1,5 +1,5 @@
 <h1>Hi, I'm Keith! <br/><a href="https://github.com/KeithRenfro">Founding Director Impact AI Studio</a>, 
-  <a href="https://www.linkedin.com/in/KeithRenfro/">LLM Application Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+  <a href="https://www.linkedin.com/in/KeithRenfro/">LLM Application Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">MLM Developer</a></h1>
 
 <h2>👨‍💻 SaaS Development Projects:</h2>
 
